@@ -1,5 +1,5 @@
 # test
-Just want to upload to Eclipse Java project 
+Just want to upload Eclipse Java project to github 
 
  
 1、打开Eclipse，针对项目右键选择Team中的share project
